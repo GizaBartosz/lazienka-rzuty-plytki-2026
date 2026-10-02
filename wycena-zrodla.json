@@ -28,21 +28,21 @@
       "product": "Ivory 120 × 60",
       "shop": "eŁazienki",
       "price_m2": 191.49,
-      "quantity_m2": 15.73,
+      "quantity_m2": 12.87,
       "url": "https://elazienki.pl/p/plytka-gresowa-1198x598x08-cm-tubadzin-teri-ivory-sat-str/"
     },
     {
       "product": "Ivory 120 × 60",
       "shop": "Łazienka4U",
       "price_m2": 194,
-      "quantity_m2": 15.73,
+      "quantity_m2": 12.87,
       "url": "https://lazienka4u.pl/299318.html"
     },
     {
       "product": "Ivory 120 × 60",
       "shop": "ŁazienkiABC",
       "price_m2": 242.99,
-      "quantity_m2": 15.73,
+      "quantity_m2": 12.87,
       "url": "https://www.lazienkiabc.pl/Plytka-gresowa-Tubadzin-TERI-IVORY-SAT-STR-119-8x59-8x0-8-200334.html"
     },
     {
@@ -65,6 +65,27 @@
       "price_m2": 385,
       "quantity_m2": 4.32,
       "url": "https://terradeco.com.pl/plytki-mrozoodporne/477"
+    },
+    {
+      "product": "Ivory 274,8 × 119,8",
+      "shop": "Mersi",
+      "price_m2": 345.38,
+      "quantity_m2": 3.29,
+      "url": "https://mersi.pl/plytki-ceramiczne-klinkier/tubadzin-teri-ivory-sat-str-274-8x119-8.html"
+    },
+    {
+      "product": "Ivory 274,8 × 119,8",
+      "shop": "eŁazienki",
+      "price_m2": 359.78,
+      "quantity_m2": 3.29,
+      "url": "https://elazienki.pl/p/plytka-gresowa-2748x1198-cm-tubadzin-teri-ivory-sat-str/"
+    },
+    {
+      "product": "Ivory 274,8 × 119,8",
+      "shop": "BLU (m² przeliczone z ceny płyty)",
+      "price_m2": 479.7,
+      "quantity_m2": 3.29,
+      "url": "https://www.blu.com.pl/plytki-uniwersalne-120x275-cm/46147-monolith-tubadzin-teri-ivory-sat-str-5900199267503.html"
     }
   ]
 }
