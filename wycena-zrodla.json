@@ -1,0 +1,70 @@
+{
+  "date": "2026-10-02",
+  "currency": "PLN",
+  "tax": "brutto",
+  "offers": [
+    {
+      "product": "Ivory 120 × 120",
+      "shop": "eŁazienki",
+      "price_m2": 254.19,
+      "quantity_m2": 23.04,
+      "url": "https://elazienki.pl/p/plytka-gresowa-1198x1198-cm-tubadzin-teri-ivory-sat/"
+    },
+    {
+      "product": "Ivory 120 × 120",
+      "shop": "PłytkiCeramiczne",
+      "price_m2": 287.92,
+      "quantity_m2": 23.04,
+      "url": "https://plytkiceramiczne.pl/p/teri-ivory-sat-str-119-8x119-8"
+    },
+    {
+      "product": "Ivory 120 × 120",
+      "shop": "ŁazienkiABC",
+      "price_m2": 323.99,
+      "quantity_m2": 23.04,
+      "url": "https://www.lazienkiabc.pl/Plytka-gresowa-Tubadzin-TERI-IVORY-SAT-STR-119-8x119-8-202986.html"
+    },
+    {
+      "product": "Ivory 120 × 60",
+      "shop": "eŁazienki",
+      "price_m2": 191.49,
+      "quantity_m2": 12.87,
+      "url": "https://elazienki.pl/p/plytka-gresowa-1198x598x08-cm-tubadzin-teri-ivory-sat-str/"
+    },
+    {
+      "product": "Ivory 120 × 60",
+      "shop": "Łazienka4U",
+      "price_m2": 194,
+      "quantity_m2": 12.87,
+      "url": "https://lazienka4u.pl/299318.html"
+    },
+    {
+      "product": "Ivory 120 × 60",
+      "shop": "ŁazienkiABC",
+      "price_m2": 242.99,
+      "quantity_m2": 12.87,
+      "url": "https://www.lazienkiabc.pl/Plytka-gresowa-Tubadzin-TERI-IVORY-SAT-STR-119-8x59-8x0-8-200334.html"
+    },
+    {
+      "product": "Florim 120 × 60",
+      "shop": "SklepFlorim / MIRAD",
+      "price_m2": 299.25,
+      "quantity_m2": 4.32,
+      "url": "https://sklepflorim.pl/produkt/nature-mood-plank-01"
+    },
+    {
+      "product": "Florim 120 × 60",
+      "shop": "Pięknie",
+      "price_m2": 359,
+      "quantity_m2": 4.32,
+      "url": "https://pieknie.pl/pl/p/Creative-Design-Nature-Mood-Plank-01-60x120-gres-matowy/9738"
+    },
+    {
+      "product": "Florim 120 × 60",
+      "shop": "Terradeco",
+      "price_m2": 385,
+      "quantity_m2": 4.32,
+      "url": "https://terradeco.com.pl/plytki-mrozoodporne/477"
+    }
+  ]
+}
